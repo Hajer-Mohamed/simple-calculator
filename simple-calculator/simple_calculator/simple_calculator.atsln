@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "simple_calculator", "simple_calculator\simple_calculator.cproj", "{88BBC5DE-981A-4433-8924-6ACC47B11306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BBC5DE-981A-4433-8924-6ACC47B11306}.Debug|AVR.ActiveCfg = Debug|AVR
+		{88BBC5DE-981A-4433-8924-6ACC47B11306}.Debug|AVR.Build.0 = Debug|AVR
+		{88BBC5DE-981A-4433-8924-6ACC47B11306}.Release|AVR.ActiveCfg = Release|AVR
+		{88BBC5DE-981A-4433-8924-6ACC47B11306}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
